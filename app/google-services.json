@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447662690504",
+    "firebase_url": "https://textrecognizationml.firebaseio.com",
+    "project_id": "textrecognizationml",
+    "storage_bucket": "textrecognizationml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447662690504:android:e767cbd08d394bf6",
+        "android_client_info": {
+          "package_name": "com.example.pallavi.textrecognizationml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447662690504-bihv5h6ttjld1edblosih5ehhqrt8vg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOqZmmRhbbN_0GH74_qDNiOxLnjCXzh7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447662690504-bihv5h6ttjld1edblosih5ehhqrt8vg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
